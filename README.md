@@ -1,4 +1,4 @@
-# README - Batalha Naval em C (Nível Aventureiro)
+Batalha Naval em C
 
 ## Descrição
 
